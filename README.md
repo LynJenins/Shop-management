@@ -1,5 +1,5 @@
 # Shop-management
-Front end interface for a shop cashier using Java
+Front end interface for a shop cashier machine using Java
 ![image](https://user-images.githubusercontent.com/87421663/152739537-296e1be2-5b0e-479e-ab70-e854a3f05aad.png)
 ![image](https://user-images.githubusercontent.com/87421663/152739668-5862f35f-3c21-4f5e-bded-1da6030dac09.png)
 ![image](https://user-images.githubusercontent.com/87421663/152739689-80ba67d7-99c9-4f1e-86e0-2f9a9e4fb8c0.png)
